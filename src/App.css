@@ -14,11 +14,16 @@
     --schedule: #e1a345;
 }
 
+/* * {
+    background-color: black;
+} */
+
 .App {
     overflow: hidden;
     color: var(--black);
-    background: #f3f3f3;
+    background: #000000;
     padding: 1rem 1rem;
+    color: white;
 }
 
 .blur {
@@ -26,6 +31,6 @@
     width: 22rem;
     height: 14rem;
     border-radius: 50%;
-    background: #43c24b9a;
+    background: #81e72897;
     filter: blur(72px);
 }
