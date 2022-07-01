@@ -21,9 +21,9 @@
 .App {
     overflow: hidden;
     color: var(--black);
-    background: #000000;
+    background: #e8e8e8;
     padding: 1rem 1rem;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .blur {
